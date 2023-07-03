@@ -473,6 +473,12 @@ span {
         flex-direction: column-reverse;
 
     }
+    .about-content {
+        margin-right: 0px;
+        margin-left: 54px;
+
+
+    }
 
     .about img {
         width: 100vw;
@@ -506,6 +512,13 @@ span {
         grid-template-columns: 1fr;
     }
 
+    .about-content {
+        margin-right: 0px;
+        margin-left: 54px;
+
+
+    }
+
     .footer {
         flex-direction: column-reverse;
     }
@@ -528,9 +541,8 @@ span {
         width: 100%;
     }
     .about-content {
-        margin-right: -69px;
-        margin-left: 72px;
-
+        margin-right: 0px;
+        margin-left: 54px;
 
 
     }
@@ -553,7 +565,8 @@ span {
         
     }
     .about-content {
-        margin-right: -69px;
+        margin-right: 0px;
+        margin-left: 54px;
 
 
     }
