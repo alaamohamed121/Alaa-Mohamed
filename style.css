@@ -527,6 +527,13 @@ span {
     .contact form .input-box input {
         width: 100%;
     }
+    .about-content {
+        margin-right: -69px;
+        margin-left: 72px;
+
+
+
+    }
 
     .footer {
         flex-direction: column-reverse;
@@ -544,6 +551,11 @@ span {
     .home-img img {
         width: 100vw;
         
+    }
+    .about-content {
+        margin-right: -69px;
+
+
     }
 
     .about-img img {
